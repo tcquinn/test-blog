@@ -1,6 +1,6 @@
 ---
 short_name: ted
-name: Ted Doe
-position: Writer
+name: Ted Quinn
+position: Innovation and Research
 ---
-Ted has been eating fruit since he was baby.
+Ted explores innovation that has the potential to support and strengthen the authentic Montessori environment of our classrooms.

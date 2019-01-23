@@ -1,6 +1,6 @@
 ---
 title: About
 ---
-# About page
+# Wildflower Schools
 
-This page tells you a little bit about me.
+Wildflower is an ecosystem of decentralized Montessori micro-schools that support children, teachers, and parents. Wildflower aspires to give all children and families the opportunity to choose high quality, beautiful learning environments as they follow life’s unfolding journey.
