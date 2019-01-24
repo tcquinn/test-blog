@@ -1,8 +1,8 @@
 - name: Home
-  link: {{ site.url }}/
+  link: /
 - name: About
-  link: {{ site.url }}/about.html
+  link: /about.html
 - name: Blog
-  link: {{ site.url }}/blog.html
+  link: /blog.html
 - name: Staff
-  link: {{ site.url }}/staff.html
+  link: /staff.html
