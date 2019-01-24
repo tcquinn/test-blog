@@ -3,17 +3,5 @@
     <a href="{{ item.link | absolute_url}}" {% if page.url == item.link %}class="current"{% endif %}>
       {{ item.name }}
     </a>
-    <p>
-      {{ item.link }}
-    </p>
-    <p>
-      {{ item.link | base_url}}
-    </p>
-    <p>
-      {{ item.link | absolute_url}}
-    </p>
-    <p>
-      {{ page.url }}
-    </p>
   {% endfor %}
 </nav>

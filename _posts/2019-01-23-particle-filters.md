@@ -53,7 +53,7 @@ That is, $$\mathbf{Y}_t$$ is conditionally independent of $$\mathbf{X}_{t'}$$ an
 
 The figure below is an intutive way of visualizig these independence relationships. For more on the semantics of such graphs, which are widely used in modeling complex sytems, see _Probabilistic Graphical Models_ by Dahpne Koller and Nir Friedman.
 
-![Figure 1]({{ site.url }}/assets/images/bayesfilter_fig01.png){:width="500px"}
+![Figure 1]({{ "/assets/images/bayesfilter_fig01.png" | absolute_url }}){:width="500px"}
 
 Using this language, our intuition tells us that we should be able to express our knowledge of the current state $$P(\mathbf{X}_t)$$ in terms of our knowledge of the previous state $$P(\mathbf{X}_{t-1})$$, our knowledge of how the system evolves $$P(\mathbf{X}_t  \vert  \mathbf{X}_{t-1})$$, the current set of sensor readings $$\mathbf{Y}_t$$, and our knowledge of how the sensors respond $$P(\mathbf{Y}_t  \vert  \mathbf{X}_t)$$. In the next section, we derive precisely this result.
 
